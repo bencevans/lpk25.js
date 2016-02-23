@@ -1,0 +1,33 @@
+{
+  "name": "lpk25",
+  "version": "1.0.0",
+  "description": "AKAI LPK25 Keyboard Interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bencevans/lpk25.js.git"
+  },
+  "keywords": [
+    "Keyboard",
+    "LPK25",
+    "AKAI",
+    "midi",
+    "keyup",
+    "keydown"
+  ],
+  "author": "Ben Evans <ben@bensbit.co.uk> (http://bensbit.co.uk)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bencevans/lpk25.js/issues"
+  },
+  "homepage": "https://github.com/bencevans/lpk25.js#readme",
+  "devDependencies": {
+    "standard": "^6.0.7"
+  },
+  "dependencies": {
+    "midi": "^0.9.4"
+  }
+}
